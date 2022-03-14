@@ -20,7 +20,7 @@
 // @exclude      */namu.wiki/member/login?*
 // @exclude      */namu.wiki/w/사용자:*
 //
-// @description        List-KR Script allows you to block complicated advertisement to block on NamuWiki, website protected by ad-shield, etc.
+// @description  List-KR Script allows you to block complicated advertisement to block on NamuWiki, website protected by ad-shield, etc.
 //
 // @grant        unsafeWindow
 // @grant        GM_deleteValue
