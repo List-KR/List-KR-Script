@@ -6,12 +6,16 @@
 // @supportURL   https://github.com/List-KR/List-KR-Script/issues/4
 // @updateURL    https://github.com/List-KR/List-KR-Script/raw/master/List-KR-ScriptDev.user.js
 // @downloadURL  https://github.com/List-KR/List-KR-Script/raw/master/List-KR-ScriptDev.user.js
-// @license      MPL-2.0
+// @license      GPL-3.0
 //
-// @version      2.0d10
+// @version      2.0d11
 // @author       PiQuark6046 and contributors
 //
-// @match        *://namu.wiki/w/*
+// @match        *://ad-shield.team/*
+// @match        *://algumon.com/*
+// @match        *://*.algumon.com/*
+// @match        *://loawa.com/*
+// @match        *://*.loawa.com/*
 // @match        *://*.inven.co.kr/*
 // @match        *://ygosu.com/*
 // @match        *://ppss.kr/*
@@ -28,22 +32,12 @@
 // @exclude      *://etoland.co.kr/bbs/password_lost.php
 // @exclude      *://secure.donga.com/*
 // @exclude      *://member.inven.co.kr/*
-// @exclude      *://namu.wiki/member/login?*
 //
-// @description        List-KR Script allows you to block complicated advertisement to block on NamuWiki, website protected by ad-shield, etc.
+// @description        List-KR Script allows you to block complicated advertisement to block on website protected by ad-shield, etc.
 //
 // @grant        unsafeWindow
-// @grant        GM_deleteValue
-// @grant        GM_listValues
-// @grant        GM_getValue
-// @grant        GM_setValue
 // @run-at       document-start
-// @require      https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js
-// @require      https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-wasm/dist/tf-backend-wasm.js
-// @require      https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core
-// @require      https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-webgl
 // ==/UserScript==
-// Used Open Source Projects: TFjs (https://github.com/tensorflow/tfjs)
 
 (function() {
 'use strict';
