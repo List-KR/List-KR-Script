@@ -21,7 +21,7 @@ jobs:
   OSSAR-Scan:
     # OSSAR runs on windows-latest.
     # ubuntu-latest and macos-latest support coming soon
-    runs-on: windows-2019
+    runs-on: windows
 
     steps:
     - name: Checkout repository
