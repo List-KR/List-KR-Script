@@ -6,10 +6,10 @@
 // @supportURL   https://github.com/List-KR/List-KR-Script/issues/4
 // @updateURL    https://github.com/List-KR/List-KR-Script/raw/rel/List-KR-Script.user.js
 // @downloadURL  https://github.com/List-KR/List-KR-Script/raw/rel/List-KR-Script.user.js
-// @license      GPL-3.0
+// @license      MPL-2.0
 //
-// @version      2.0
-// @author       PiQuark6046 and contributors
+// @version      1.0.3
+// @author       PiQuark6046 ( piquark6046@protonmail.com ) and contributors
 //
 // @match        http://namu.wiki/*
 // @match        https://namu.wiki/*
