@@ -1,5 +1,5 @@
 ### List-KR Script
-List-KR [^1] Script blocks complicated advertisement to block on NamuWiki, website protected by ad-shield, etc.
+List-KR [^1] Script blocks complicated advertisement to block on website protected by ad-shield, etc.
 
 ### Quick Start
 Just click the following URL to detect this userscript.
