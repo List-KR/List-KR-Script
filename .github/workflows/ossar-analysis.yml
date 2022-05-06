@@ -10,10 +10,12 @@ name: OSSAR
 
 on:
   push:
-    branches: [ master ]
+    branches: 
+      - '**'
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ master ]
+    branches: 
+      - '**'
   schedule:
     - cron: '00 00 * * *'
 
@@ -21,7 +23,7 @@ jobs:
   OSSAR-Scan:
     # OSSAR runs on windows-latest.
     # ubuntu-latest and macos-latest support coming soon
-    runs-on: windows-2019
+    runs-on: windows-latest
 
     steps:
     - name: Checkout repository
