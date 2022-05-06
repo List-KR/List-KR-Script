@@ -40,7 +40,7 @@
 //
 // @description        List-KR Script allows you to block complicated advertisement to block on website protected by ad-shield, etc.
 //
-// @grant        unsafeWindow
+// @grant        none
 // @run-at       document-start
 // ==/UserScript==
 
