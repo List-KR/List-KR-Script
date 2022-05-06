@@ -26,6 +26,11 @@
 // @match        *://*.etoland.co.kr/*
 // @match        *://*.op.gg/*
 // @match        *://tgd.kr/*
+// @match        *://feedclick.net/*
+// @match        *://*.reddit.com/*
+// @match        *://*.nytimes.com/*
+// @match        *://*.forbes.com/*
+// @exclude      *://myaccount.nytimes.com/*
 // @exclude      *://tgd.kr/member/login_page*
 // @exclude      *://member.op.gg/*
 // @exclude      *://etoland.co.kr/bbs/register.php
