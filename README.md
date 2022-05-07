@@ -1,4 +1,4 @@
-# If you want to block Ad-Shield, please go to (microShield)[https://github.com/List-KR/microShield]
+# If you want to block Ad-Shield, please go to https://github.com/List-KR/microShield
 
 
 ### List-KR Script
