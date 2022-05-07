@@ -1,3 +1,6 @@
+# If you want to block Ad-Shield, please go to (microShield)[https://github.com/List-KR/microShield]
+
+
 ### List-KR Script
 List-KR [^1] Script blocks complicated advertisement to block on NamuWiki, website protected by ad-shield, etc.
 
